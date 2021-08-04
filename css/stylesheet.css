@@ -8,24 +8,24 @@ padding-left: 20px;
 }
 .navbar{
   width:25%;
-  margin: auto;
+/*   margin: auto; */
   background-color: #C9E4C5;
 }
 /* title & p  */
 .name{
   font-weight: bold;
-  padding-left: 9%;
+/*   padding-left: 9%; */
   font-family: Josefin Sans;
 }
 h4{
   font-family: Josefin Sans;
-  padding-left: 12%;
+/*   padding-left: 12%; */
 
 }
 .subp{
 
   font-family: Josefin Sans;
-  padding-left: 10%;
+/*   padding-left: 10%; */
 }
 .con1{
   background-color: #C9E4C5;
