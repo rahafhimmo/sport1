@@ -8,8 +8,7 @@ padding-left: 20px;
 }
 .navbar{
   width:25%;
-/*   margin: auto; */
-  background-color: #C9E4C5;
+
 }
 /* title & p  */
 .name{
@@ -17,28 +16,19 @@ padding-left: 20px;
 /*   padding-left: 9%; */
   font-family: Josefin Sans;
 }
-h4{
-  font-family: Josefin Sans;
-/*   padding-left: 12%; */
 
-}
 .subp{
 
   font-family: Josefin Sans;
 /*   padding-left: 10%; */
 }
-.con1{
+.con{
   background-color: #C9E4C5;
 
 }
-.con2{
-  background-color: #C9E4C5;
 
-}
 /* col for top p */
-.overcol{
-padding-top: 8%;
-}
+
 
 img{
 padding-left: 30px;
@@ -51,11 +41,21 @@ padding-left: 30px;
 text-align: center;
 padding-top: 5%;
 font-family: 'Patrick Hand';
-font-size: 1.3rem;
+font-size: 1.5rem;
 }
 hr{
   width:10%;
   /* background-color:  */
   margin: 4% auto;
+
+}
+@media screen and (max-width: 400px) {
+.homeinfo{
+font-size:2rem;
+}
+}
+h4{
+  font-family: Josefin Sans;
+  /* padding-left: 12%; */
 
 }
