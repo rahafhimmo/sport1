@@ -51,6 +51,9 @@ padding-top: 5%;
 font-family: 'Patrick Hand';
 font-size: 1.5rem;
 }
+.homeinfo{
+padding-top:1%;
+}
 @media screen and (max-width: 600px) {
 .homeinfo{
 font-size:2rem;
